@@ -1,0 +1,1 @@
+{"name":"Local: set-matrix-zeros","url":"/Users/ishaan/Documents/DSA-Practice/set-matrix-zeros.cpp","tests":[{"id":1677574298817,"input":"1\n3 3\n1 0 1\n1 1 1\n1 1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/ishaan/Documents/DSA-Practice/set-matrix-zeros.cpp","group":"local","local":true}
